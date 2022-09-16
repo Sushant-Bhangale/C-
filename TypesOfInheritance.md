@@ -6,6 +6,7 @@
    For Inheritance we need minimum two class
         1. Parent Class: The class whose properties are inherited by child class is called
                          parent class / Base class / Super Class 
+        
         2. Child Class:  The class that inherits properties from another class is called 
                          Child Class /Derived Class / SubClass
 
